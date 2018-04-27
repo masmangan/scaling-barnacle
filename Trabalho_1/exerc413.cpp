@@ -36,9 +36,9 @@ int main() {
 
 			rend = km/lit;	
 
-			kmtotal = kmtotal + km; 
+			kmtotal += km; 
 
-			littotal = littotal + lit;
+			littotal += lit;
 
 			rendtotal = kmtotal/littotal;		
 
