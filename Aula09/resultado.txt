@@ -1,0 +1,14 @@
+Cálculo do G1
+Dados do aluno
+Informe nome:
+Informe curso:
+Informe matrícula:
+Avaliação do aluno
+Informe p1:
+Informe p2:
+Informe t:
+Informe faltas:
+Marco Mangan 4/452 12345678-9
+5 5 5 0
+5G2
+*FIM*
